@@ -151,4 +151,11 @@
         </plugins>
     </build>
 
+    <developers>
+        <developer>
+            <name>ESB</name>
+            <email>elderbarros39@gmail.com</email>
+        <developer>
+    <developers>
+
 </project>
